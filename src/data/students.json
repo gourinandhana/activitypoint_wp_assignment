@@ -1,0 +1,26 @@
+[
+  {
+    "uid": "u2408001",
+    "password": "123456",
+    "name": "Gouri Nandhana",
+    "department": "AI & Data Science",
+    "semester": "Semester 6",
+    "targetPoints": 100
+  },
+  {
+    "uid": "u2408002",
+    "password": "123456",
+    "name": "Aegis MS",
+    "department": "AI & Data Science",
+    "semester": "Semester 6",
+    "targetPoints": 100
+  },
+  {
+    "uid": "u2408003",
+    "password": "123456",
+    "name": "Sithaara Jubab Roshan",
+    "department": "AI & Data Science",
+    "semester": "Semester 6",
+    "targetPoints": 100
+  }
+]

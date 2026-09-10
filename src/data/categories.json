@@ -1,0 +1,9 @@
+[
+  { "id": "technical", "name": "Technical", "icon": "⌘" },
+  { "id": "professional", "name": "Professional", "icon": "◆" },
+  { "id": "sports", "name": "Sports", "icon": "◈" },
+  { "id": "cultural", "name": "Cultural", "icon": "✦" },
+  { "id": "social", "name": "Social Service", "icon": "♡" },
+  { "id": "entrepreneurship", "name": "Entrepreneurship", "icon": "↗" },
+  { "id": "leadership", "name": "Leadership", "icon": "♧" }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "g1",
+    "uid": "u2408001",
+    "title": "AI & ML Workshop",
+    "category": "Technical",
+    "date": "2026-08-20",
+    "description": "Participated in a hands-on artificial intelligence and machine learning workshop.",
+    "pointsClaimed": 10,
+    "pointsApproved": 10,
+    "status": "Approved"
+  },
+  {
+    "id": "g2",
+    "uid": "u2408001",
+    "title": "College Arts Fest",
+    "category": "Cultural",
+    "date": "2026-08-15",
+    "description": "Participated in the inter-department cultural programme.",
+    "pointsClaimed": 8,
+    "pointsApproved": 8,
+    "status": "Approved"
+  },
+  {
+    "id": "g3",
+    "uid": "u2408001",
+    "title": "NSS Community Service",
+    "category": "Social Service",
+    "date": "2026-07-28",
+    "description": "Volunteered in a community cleanliness and awareness drive.",
+    "pointsClaimed": 10,
+    "pointsApproved": 0,
+    "status": "Pending"
+  },
+  {
+    "id": "g4",
+    "uid": "u2408001",
+    "title": "Coding Challenge",
+    "category": "Technical",
+    "date": "2026-07-18",
+    "description": "Participated in an inter-college competitive programming challenge.",
+    "pointsClaimed": 7,
+    "pointsApproved": 7,
+    "status": "Approved"
+  },
+  {
+    "id": "a1",
+    "uid": "u2408002",
+    "title": "Leadership Development Session",
+    "category": "Leadership",
+    "date": "2026-08-12",
+    "description": "Completed a student leadership and teamwork development session.",
+    "pointsClaimed": 10,
+    "pointsApproved": 10,
+    "status": "Approved"
+  },
+  {
+    "id": "a2",
+    "uid": "u2408002",
+    "title": "Tech Talk: Generative AI",
+    "category": "Technical",
+    "date": "2026-07-30",
+    "description": "Attended a technical talk covering current generative AI applications.",
+    "pointsClaimed": 5,
+    "pointsApproved": 5,
+    "status": "Approved"
+  },
+  {
+    "id": "a3",
+    "uid": "u2408002",
+    "title": "Entrepreneurship Bootcamp",
+    "category": "Entrepreneurship",
+    "date": "2026-07-16",
+    "description": "Participated in an innovation and entrepreneurship bootcamp.",
+    "pointsClaimed": 12,
+    "pointsApproved": 0,
+    "status": "Pending"
+  },
+  {
+    "id": "s1",
+    "uid": "u2408003",
+    "title": "Inter-College Sports Meet",
+    "category": "Sports",
+    "date": "2026-08-10",
+    "description": "Represented the college in an inter-college sports event.",
+    "pointsClaimed": 12,
+    "pointsApproved": 12,
+    "status": "Approved"
+  },
+  {
+    "id": "s2",
+    "uid": "u2408003",
+    "title": "Professional Skills Seminar",
+    "category": "Professional",
+    "date": "2026-07-25",
+    "description": "Attended a seminar on professional communication and career skills.",
+    "pointsClaimed": 6,
+    "pointsApproved": 6,
+    "status": "Approved"
+  },
+  {
+    "id": "s3",
+    "uid": "u2408003",
+    "title": "Social Awareness Campaign",
+    "category": "Social Service",
+    "date": "2026-07-11",
+    "description": "Participated in a campus social awareness campaign.",
+    "pointsClaimed": 8,
+    "pointsApproved": 0,
+    "status": "Pending"
+  }
+]
